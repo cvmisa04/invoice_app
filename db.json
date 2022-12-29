@@ -1,0 +1,35 @@
+{
+  "invoices": [
+    {
+      "invoiceID": "d2ff7afc-1578-23e2-aef4-5cf1d6f2ef69",
+      "id": 1
+    },
+    {
+      "invoiceID": "5ffe110e-38b3-7cde-89ff-52be6c136293",
+      "id": 2
+    }
+  ],
+  "items": [
+    {
+      "name": "SSD",
+      "quantity": "2",
+      "stock": "100",
+      "itemId": "d2ff7afc-1578-23e2-aef4-5cf1d6f2ef69",
+      "id": 1
+    },
+    {
+      "name": "HP",
+      "quantity": "1",
+      "stock": "500",
+      "itemId": "5ffe110e-38b3-7cde-89ff-52be6c136293",
+      "id": 2
+    },
+    {
+      "name": "Mouse",
+      "quantity": "3",
+      "stock": "200",
+      "itemId": "d2ff7afc-1578-23e2-aef4-5cf1d6f2ef69",
+      "id": 3
+    }
+  ]
+}
